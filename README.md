@@ -6,6 +6,6 @@ Backend Framework -> NestJS, TypeScript
 
 API->Restful Api
 
-.env yapılandırması (config-> JSON/YAML tabanlı yapılandırma değil)
+.env yapılandırması (config-> JSON/YAML X )
 
 test->swagger
